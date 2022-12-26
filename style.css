@@ -1,0 +1,38 @@
+#ClockContainer{
+    background: url(clock.png) no-repeat;
+    height: 40vw;
+    width: 40vw;
+    background-size: 100%;
+    margin: auto;
+    position: relative;
+}
+
+#hourHand, #minHand,#secHand{
+    position: absolute;
+    background-color: black;
+    border-radius: 10px;
+    transform-origin: bottom;
+}
+#hourHand{
+    width: 1.5%;
+    height: 20%;
+    top: 30%;
+    left: 49.25%;
+    z-index: 3;
+}
+#minHand{
+    width: 1%;
+    height: 28%;
+    top: 22%;
+    left: 49.5%;
+    background-color: rgb(18, 181, 29);
+    z-index: 2;
+ }
+#secHand{
+    width: 0.8%;
+    height: 38%;
+    top: 12%;
+    left: 49.65%;
+    background-color: rgb(179, 28, 28);
+    z-index: 1;
+}

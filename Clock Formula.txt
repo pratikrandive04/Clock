@@ -1,0 +1,26 @@
+---------------------------------
+for hr hand:
+
+12hr karne ke liye = 360degree rotation needed
+12hr=360degree
+1hr = 30degree
+
+1hr = 60min = 30degree
+1min = 1/2dgree
+for m min = m/2 degree
+
+for h hrs,
+h hrs = (30h + m/2) degree
+--------------------------------
+for min Hand: 
+
+60min = 360 degree
+1min = 6 degree
+
+for m mins,
+m min = 6*m degree
+--------------------------------
+for sec hand:
+60sec = 360 degree
+1sec = 6dgree
+s sec = 6*s degree 
